@@ -1,0 +1,11 @@
+*.mp3
+*.wma
+*.mp4
+*.3gp
+__pycache__
+build
+dist
+*.spec
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe

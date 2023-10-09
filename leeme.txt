@@ -1,0 +1,5 @@
+- Comando para compilar a exe : "pyinstaller --windowed --onefile --icon=./logo.ico interfaz.py"
+
+- Los archivos ffmpeg.exe, ffplay.exe, ffprove.exe debe estar en la misma carpeta del script.py o en caso de ser compilado a .exe en la misma carpeta junto con el icono de refresh
+
+- Los archivos ffmpeg.exe, ffplay.exe, ffprove.exe se pueden descargar de https://github.com/BtbN/FFmpeg-Builds/releases o https://ffmpeg.org/download.html#build-windows
